@@ -4,3 +4,38 @@ P002,Mouse,Tecnología,300,150
 P003,Escritorio,Muebles,3200,8
 P004,Silla,Muebles,1800,20
 P005,Monitor,Tecnología,4200,15
+P006,Teclado,Tecnología,700,100
+P007,Cámara Web,Tecnología,2500,25
+P008,Impresora,Tecnología,3800,18
+P009,Router,Electrónica,1200,40
+P010,Refrigerador,Electrodomésticos,8500,6
+P011,Microondas,Electrodomésticos,2600,10
+P012,Cafetera,Electrodomésticos,1800,30
+P013,Aspiradora,Electrodomésticos,3200,5
+P014,Smartphone,Tecnología,9500,22
+P015,Tablet,Tecnología,8700,14
+P016,Bocina Bluetooth,Electrónica,1100,60
+P017,Proyector,Tecnología,7200,7
+P018,Lámpara,Iluminación,450,75
+P019,Extensión eléctrica,Electrónica,250,200
+P020,Disco Duro,Tecnología,2300,33
+P021,Memoria USB,Tecnología,350,180
+P022,Cargador,Tecnología,400,90
+P023,Sofá,Muebles,9600,3
+P024,Estante,Muebles,2100,12
+P025,Alfombra,Decoración,1500,11
+P026,Cuadro decorativo,Decoración,800,40
+P027,Smartwatch,Tecnología,6200,19
+P028,Fuente de poder,Tecnología,1900,20
+P029,Case de PC,Tecnología,2100,15
+P030,Tarjeta gráfica,Tecnología,12500,9
+P031,Laptop,Tecnología,15000,   
+P032,,Electrónica,2200,45          
+P033,Router,Electrónica,,50       
+P034,Monitor,Tecnología,4200,    
+P035,Celular,Tecnología,          
+P036,Silla de oficina,Muebles,2600,15
+P037,Monitor,Electrónica,4200,20   
+P038,Audífonos,Tecnología,850,80
+P039,,Muebles,1800,17
+P040,Teclado,,700,120             
