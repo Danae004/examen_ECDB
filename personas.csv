@@ -1,11 +1,21 @@
 ID,Nombre,Edad,Ciudad,Salario
-1,Ana,30,Ciudad de México,15000
-2,José,35,Guadalajara,18000
-3,María,22,Monterrey,12000
-4,Carlos,40,Ciudad de México,22000
-5,Luis,30,Puebla,16000
-6,Elena,27,Toluca,14500
-7,Jorge,50,Guadalajara,25000
-8,Laura,33,Querétaro,17000
-9,Diego,30,León,15500
-10,Lucía,26,Tijuana,14000
+11,Paola,29,Guadalajara,16500
+12,Andrés,38,Monterrey,19500
+13,Valeria,31,Ciudad de México,17500
+14,Fernando,45,Puebla,21000
+15,Daniela,24,Toluca,13500
+16,Ricardo,36,Querétaro,18500
+17,Isabel,28,Tijuana,14500
+18,Sofía,32,León,16000
+19,Emilio,41,Ciudad de México,23000
+20,Camila,27,Monterrey,15000
+21,Alberto,34,Guadalajara,19000
+22,Renata,23,Puebla,12500
+23,Martín,39,Querétaro,20000
+24,Daniel,25,Toluca,14000
+25,Ximena,37,Tijuana,17000
+26,Hugo,29,León,15500
+27,Alejandra,33,Ciudad de México,18500
+28,Enrique,46,Monterrey,24000
+29,Patricia,30,Guadalajara,17500
+30,Manuel,42,Puebla,21500
